@@ -4,17 +4,19 @@ title = 'The Third Tertile'
 theme = "PaperMod"
 
 [params]
-  profileMode.enabled = true
-  profileMode.title = "Hazem Suleiman"
-  profileMode.subtitle = "DevOps & Cloud Engineer · Azure · GitLab CI/CD · IaC"
-  profileMode.imageUrl = ""
-  showReadingTime = true
   defaultTheme = "dark"
+  showReadingTime = true
 
-[params.socialIcons]
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/Haz-2520"
-  [[params.socialIcons]]
-    name = "linkedin"
-    url = "https://linkedin.com/in/your-profile"
+[params.profileMode]
+  enabled = true
+  title = "Hazem Suleiman"
+  subtitle = "DevOps & Cloud Engineer · Azure · GitLab CI/CD · IaC"
+  imageUrl = ""
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/Haz-2520"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/your-profile"
