@@ -20,3 +20,8 @@ theme = "PaperMod"
 [[params.socialIcons]]
   name = "linkedin"
   url = "https://linkedin.com/in/your-profile"
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
