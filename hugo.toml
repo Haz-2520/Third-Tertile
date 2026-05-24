@@ -25,3 +25,38 @@ theme = "PaperMod"
   name = "About"
   url = "/about/"
   weight = 1
+
+[[menu.main]]
+  name = "Sobriety"
+  url = "/sobriety/"
+  weight = 2
+
+[[menu.main]]
+  name = "AI Corner"
+  url = "/ai-corner/"
+  weight = 3
+
+[[menu.main]]
+  name = "Health"
+  url = "/health/"
+  weight = 4
+
+[[menu.main]]
+  name = "Tech Corner"
+  url = "/tech-corner/"
+  weight = 5
+
+[[menu.main]]
+  name = "Philosophy"
+  url = "/philosophy/"
+  weight = 6
+
+[[menu.main]]
+  name = "Journal"
+  url = "/journal/"
+  weight = 7
+
+[[menu.main]]
+  name = "Observations"
+  url = "/observations/"
+  weight = 8
