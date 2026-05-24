@@ -2,3 +2,19 @@ baseURL = 'https://3rd-tertile.com/'
 languageCode = 'en-us'
 title = 'The Third Tertile'
 theme = "PaperMod"
+
+[params]
+  profileMode.enabled = true
+  profileMode.title = "Hazem Suleiman"
+  profileMode.subtitle = "DevOps & Cloud Engineer · Azure · GitLab CI/CD · IaC"
+  profileMode.imageUrl = ""
+  showReadingTime = true
+  defaultTheme = "dark"
+
+[params.socialIcons]
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/Haz-2520"
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/your-profile"
