@@ -9,8 +9,8 @@ theme = "PaperMod"
 
 [params.profileMode]
   enabled = true
-  title = "Hazem Suleiman"
-  subtitle = "DevOps & Cloud Engineer · Azure · GitLab CI/CD · IaC"
+  title = "Anon"
+  subtitle = "Math, AI, Machine Learning, Algorithms, DevOps & Cloud Engineer · Azure · CI/CD · IaC"
   imageUrl = ""
 
 [[params.socialIcons]]
